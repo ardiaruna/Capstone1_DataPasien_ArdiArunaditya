@@ -12,7 +12,11 @@ This program is designed to evaluate and monitor an individual's health by calcu
 
 ## Features
 
+- Display all patient data
 - Register Patient
+- Update/Modify patient data
+- Sort patients based on the existing data
+- Delete patient data
 - Automated BMI calculation based on inputted height and weight.
 - Health insights and recommendations based on BMI results.
 
